@@ -1,0 +1,28 @@
+.DS_Store
+
+aplikasi / cache / *
+! aplikasi / cache / index.html
+! aplikasi / cache / .htaccess
+
+aplikasi / log / *
+! aplikasi / log / index.html
+! aplikasi / log / .htaccess
+
+user_guide_src / membangun / *
+user_guide_src / cilexer / build / *
+user_guide_src / cilexer / dist / *
+user_guide_src / cilexer / pycilexer.egg-info / *
+/ penjual /
+
+# File IDE
+# -------------------------
+/ nbproyek /
+.ide / *
+
+# # File cache Teks Sublim
+* .tmlanguage.cache
+* .tmPreferences.cache
+* .stTheme.cache
+* .sublime-workspace
+* .sublime-project
+© 2021 GitHub, Inc.
